@@ -28,5 +28,3 @@ Our Trello board showcased task management, progress tracking, and sprint planni
 - Applied **PHP, SQL, and frontend development skills** in a collaborative project  
 - Improved **teamwork, communication, and time management** skills  
 
-## How to Use / Run
-If your project has any code that can be executed, include instructions here. Otherwise, describe what the project demonstrates.
