@@ -1,7 +1,7 @@
 # Work-Based Learning Project
 
 ## Overview
-This is a **student Work-Based Learning project** completed as part of our coursework. Our team applied **Agile methodology** to plan, organize, and track progress using **Trello**.  
+This is a **student Work-Based Learning project** completed as part of our coursework. Our team applied **Agile methodology** to plan, organise, and track progress using **Trello**.  
 
 The project focused on building a **web application** using **PHP, SQL database, and frontend technologies (HTML/CSS/JS)**. This allowed us to practice project management and apply technical skills in a collaborative student setting.
 
